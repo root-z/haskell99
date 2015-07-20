@@ -128,4 +128,4 @@ insertAt elem xs i =
 range :: Int -> Int -> [Int]
 range a b = [a..b]
 
-
+sayHi = putStrLn "Hello Haskell!"
